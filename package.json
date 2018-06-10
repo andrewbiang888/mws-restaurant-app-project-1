@@ -1,0 +1,20 @@
+{
+  "name": "mws-restaurant-stage-1-master",
+  "version": "0.0.1",
+  "description": "For Grow with Google class",
+  "main": "index.html",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewbiang888/mws-restaurant-app-project-1.git"
+  },
+  "author": "Andrew Erickson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewbiang888/mws-restaurant-app-project-1/issues"
+  },
+  "homepage": "https://github.com/andrewbiang888/mws-restaurant-app-project-1#readme",
+  "dependencies": {
+    "grunt-responsive-images": "^1.10.1"
+  }
+}
